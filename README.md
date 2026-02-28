@@ -25,6 +25,6 @@ I am currently a 2nd-year student at the University of Thessaly, Department of C
 -  refreshing my **Java** knowledge by trying out Android studio
 -  Improving my **C++** skills to "Modern C++" standards (C++17/20).
 
-  ### My GitHub Stats
-![Ken's Stats](https://github-readme-stats.vercel.app/api?username=UTHorSmthingIDK&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTHorSmthingIDK&layout=compact&theme=tokyonight)
+ ###  My GitHub Stats
+![Ken's Stats](https://github-readme-stats.vercel.app/api?username=UTHorSmthingIDK&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTHorSmthingIDK&layout=compact&theme=tokyonight&cache_seconds=1800)
