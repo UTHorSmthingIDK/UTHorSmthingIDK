@@ -26,5 +26,6 @@ I am currently a 2nd-year student at the University of Thessaly, Department of C
 -  Improving my **C++** skills to "Modern C++" standards (C++17/20).
 
  ###  My GitHub Stats
-![Ken's Stats](https://github-readme-stats.vercel.app/api?username=UTHorSmthingIDK&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTHorSmthingIDK&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Ken's Stats](https://github-readme-stats.vercel.app/api?username=UTHorSmthingIDK&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTHorSmthingIDK&layout=compact&theme=tokyonight)
