@@ -15,7 +15,7 @@ I am currently a 2nd-year student at the University of Thessaly, Department of C
 
 ### Featured Projects
 * **[Generic Data Structures in C](https://github.com/UTHorSmthingIDK/Data-Structures-in-C):** High-performance implementation of Stacks, Queues, and Lists using `void*` for generic use. Focused on manual memory management and pointers.
-* **[Cryptography in C](https://github.com/UTHorSmthingIDK/Cryptography-in-C):** I found cryptography interesting and decided to give it a try.
+* **[Cryptography in C](https://github.com/UTHorSmthingIDK/Password-Encryption-in-C):** I found cryptography interesting and decided to give it a try.
 * **[Library Management System](https://github.com/UTHorSmthingIDK/Library-Management-System):** Exploring OOP principles in C++, focusing on classes, inheritance, and (currently refactoring) smart memory management.
 
 ---
